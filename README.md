@@ -1,4 +1,3 @@
-# sdf-student-projects
 # sdf-student-project-09
 
 # project objective
